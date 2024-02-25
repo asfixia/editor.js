@@ -4,6 +4,8 @@ Thumbs.db
 /.idea/
 /*.sublime-project
 /*.sublime-workspace
+.lh/*
+.history/*
 
 node_modules/*
 
